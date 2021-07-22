@@ -36,3 +36,5 @@ P.S: This repo **DO NOT HAVE THE ANSWER OF THE HOMEWORK** which respect the hono
 #### As coursera suggest to not to share solution online. So, request you not to share solution for this notebook.
 
 ### Thank You
+
+https://github.com/thanhhff/CS230-Deep-Learning
